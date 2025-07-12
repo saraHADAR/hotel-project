@@ -1,0 +1,38 @@
+# קבצי קומפילציה
+*.class
+
+# תיקיית build או bin
+bin/
+build/
+
+# קבצי יומן או פלט
+*.log
+
+# קבצים שנוצרים על ידי Eclipse
+.metadata/
+*.swp
+*.tmp
+*.bak
+*.orig
+*.save
+
+# קבצי קונפיגורציה של IDE
+*.iml
+.idea/
+*.iws
+*.ipr
+*.class
+.settings/
+.project
+.classpath
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# מערכת הפעלה
+.DS_Store
+Thumbs.db
